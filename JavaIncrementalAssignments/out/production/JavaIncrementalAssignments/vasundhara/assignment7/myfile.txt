@@ -1,0 +1,1 @@
+This is myfile.We are reading the contents of this file using file reader.
